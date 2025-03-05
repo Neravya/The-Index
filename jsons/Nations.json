@@ -5,7 +5,7 @@
 		"adjective": ["Human"],
 		"startBias": ["Mountain"],
 		"outerColor":[255,255,200],
-		"innerColor":[20,20,40],
+		"innerColor":[120,0,120],
 
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Domination",
