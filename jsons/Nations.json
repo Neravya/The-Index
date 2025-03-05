@@ -2,7 +2,7 @@
 	{
 		"name": "The Index",
 		"leaderName": "Esther",
-		"adjective": ["alien"],
+		"adjective": ["Human"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Domination",
 		"favouredReligion": "The Will of the Prescripts",
@@ -21,12 +21,10 @@
 		"afterPeace": "The Prescripts have planned something grand for us...",
 		"tradeRequest": "The Prescripts have made a request...",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [255,255,200],
+		"innerColor": [20,20,40],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Arbiter Corp","Beholder Corp","Claw Corp","Fairy Corp","Genetics Corp","Lobotomy Corp","Nagel und Hammer Corp","Preservation Corp","Sword Corp",
+			"T Corp","UTF Corp"],
 	}
 ]
