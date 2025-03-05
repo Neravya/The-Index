@@ -9,6 +9,6 @@
 		"faith": 8,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Temple",
-		"requiredTech": "Theology"
+		"requiredTech": "Theology",
 	}
 ]
