@@ -6,9 +6,8 @@
 		"movement": 3,
 		"strength": 15,
 		"cost": 70,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"requiredResource": "Iron",
 		"promotions": ["March", "Prescripts's Blessing"],
-		"attackSound": "phasers"
+		"attackSound": "phasers",
 	}
 ]
