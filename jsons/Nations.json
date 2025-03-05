@@ -1,31 +1,25 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
+		"name": "The Index",
+		"leaderName": "Esther",
 		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
+		"favouredReligion": "The Will of the Prescripts",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "The Prescripts will lead the way...",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "We will do as the Prescripts say, even if it includes your destruction.",
+		"attacked": "We have faith that the Prescripts have accounted for this...",
+		"defeated": "This was to be our fate as the Prescripts have already decided...",
+		"introduction": "Our ties will be decided by the Prescripts...",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "What brings you here?",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "We will have you know, the Prescripts has already planned your demise...",
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "The Prescripts have planned something grand for us...",
+		"tradeRequest": "The Prescripts have made a request...",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
