@@ -5,7 +5,7 @@
 		"uniqueTo": "The Index",
 		"movement": 3,
 		"strength": 15,
-		"cost": 100,
+		"cost": 70,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
 		"promotions": ["March", "Prescripts's Blessing"],
