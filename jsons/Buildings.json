@@ -3,7 +3,7 @@
 		"name": "The Wheels of the Prescripts",
 		"replaces": "Grand Temple",
 		"uniqueTo": "The Index",
-		"cost": 200,
+		"cost": 90,
 		"happiness": 4,
 		"culture": 1,
 		"faith": 8,
