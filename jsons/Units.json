@@ -8,7 +8,7 @@
 		"cost": 100,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["March", "Prescripts's Blessing"],
 		"attackSound": "phasers"
 	}
 ]
