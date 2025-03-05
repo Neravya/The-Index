@@ -4,8 +4,8 @@
 		"leaderName": "Esther",
 		"adjective": ["Human"],
 		"startBias": ["Mountain"],
-		"outerColor":[130,0,130],
-		"innerColor":[255,255,220],
+		"outerColor":[255,255,220],
+		"innerColor":[130,0,130],
 
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Domination",
