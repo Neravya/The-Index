@@ -1,6 +1,8 @@
 [
   {
     "name": "Prescripts's Blessing"
-    "uniques": ["Comment [Strength is Proportional to the amount of Faith Stockpiled, with Progressing Eras increasing the max Strength capacity bonus]"],
+    "uniques": ["Comment [Strength is Proportional to the amount of Faith Stockpiled, with Progressing Eras increasing the max Strength capacity bonus]",
+                "[+10]% Strength <when number of [Faith] is more than [100]>",
+                "[+10]% Strength <when number of [Faith] is more than [200]>"],
   },
 ]
