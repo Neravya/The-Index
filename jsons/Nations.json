@@ -4,26 +4,28 @@
 		"leaderName": "Esther",
 		"adjective": ["Human"],
 		"startBias": ["Mountain"],
+		"outerColor":[255,255,200],
+		"innerColor":[20,20,40],
+
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Domination",
 		"favouredReligion": "The Will of the Prescripts",
 		
 		"startIntroPart1": "The Prescripts will lead the way...",
-		
 		"declaringWar": "We will do as the Prescripts say, even if it includes your destruction.",
 		"attacked": "We have faith that the Prescripts have accounted for this...",
 		"defeated": "This was to be our fate as the Prescripts have already decided...",
 		"introduction": "Our ties will be decided by the Prescripts...",
 		
 		"neutralHello": "What brings you here?",
-
 		"hateHello": "We will have you know, the Prescripts has already planned your demise...",
 		
 		"afterPeace": "The Prescripts have planned something grand for us...",
 		"tradeRequest": "The Prescripts have made a request...",
 
-		"outerColor": [255,255,200],
-		"innerColor": [20,20,40],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Will of the Prescripts",
+		"uniques": ["[+1 Faith] [in all cities]"],
+		
 		"cities": ["Arbiter Corp","Beholder Corp","Claw Corp","Fairy Corp","Genetics Corp","Lobotomy Corp","Nagel und Hammer Corp","Preservation Corp","Sword Corp",
 			"T Corp","UTF Corp"],
 	}
