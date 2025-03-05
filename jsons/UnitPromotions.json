@@ -4,6 +4,6 @@
     "uniques": ["Comment [Strength is Proportional to the amount of Faith Stockpiled, with Progressing Eras increasing the max Strength capacity bonus]",
                 "[+20]% Strength <when number of [Faith] is more than [100]>",
                 "[+20]% Strength <when number of [Faith] is more than [200]>",
-                "[+20]% Strength <when number of [Faith] is more than [300]> <starting from the [Renaissance]>"],
+                "[+20]% Strength <when number of [Faith] is more than [300]> <starting from the [Renaissance era]>"],
   },
 ]
