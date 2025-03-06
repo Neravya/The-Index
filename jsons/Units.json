@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Proselyte",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"uniqueTo": "The Index",
 		"movement": 3,
 		"strength": 15,
