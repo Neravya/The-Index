@@ -19,8 +19,7 @@
   },
   {
     "name": "Blunt Cooldown"
-    "uniques": ["Comment [In Cooldown]",
-               "[-1]% Strength"],
+    "uniques": ["Comment [In Cooldown]"],
   },
   {
     "name": "Stunned"
