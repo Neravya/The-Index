@@ -18,7 +18,7 @@
                 "[Target Unit] gains the [Bleed] status for [4] turn(s) <upon damaging a [Wounded] unit> <for units without [Slash Cooldown]> <with [50]% chance>",
                 "[Target Unit] takes [15] damage <upon damaging a [Wounded] unit> <for units without [Pierce Cooldown]>",
                 "[This Unit] gains the [Pierce Cooldown] status for [3] turn(s) <upon damaging a [Wounded] unit> <for units without [Pierce Cooldown]>",
-                "[This Unit] gains the [Slash Cooldown] status for [4] turn(s) <upon damaging a [Bleed] unit> <for units without [Bleed Cooldown]>",
+                "[This Unit] gains the [Slash Cooldown] status for [4] turn(s) <upon damaging a [Bleed] unit> <for units without [Slash Cooldown]>",
                 "[This Unit] gains the [Blunt Cooldown] status for [4] turn(s) <upon damaging a [Stunned] unit> <for units without [Blunt Cooldown]>"],
   },
   {
