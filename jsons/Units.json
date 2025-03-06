@@ -10,7 +10,6 @@
 		"attackSound": "Proselyte.mp3",
 		"uniques": ["Consumes [3] [Iron]",
 			    "Only available <if [The Wheels of the Prescripts] is constructed by anybody> <hidden from users>",
-			    "Comment [Followers of Prescripts, Granted Immense Strength as a reward of following every Prescripts these units are able to apply Blunt, Slash, and Piercing damage.
-			     Strength scales with stockpiled Faith and Era]"],
+			    "Comment [Followers of Prescripts, Granted Immense Strength as a reward of following every Prescripts these units are able to apply Blunt, Slash, and Piercing damage. Strength scales with stockpiled Faith and Era]"],
 	}
 ]
