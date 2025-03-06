@@ -15,10 +15,10 @@
                 "[+100]% Strength <when number of [Faith] is more than [800]> <starting from the [Information era]>",
                 "[+100]% Strength <when number of [Faith] is more than [1000]> <starting from the [Information era]>",
                 "[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [Wounded] unit> <for units without [Cooldown]>",
-                "[This Unit] gains the [Cooldown] status for [2] turn(s) <upon damaging a [Wounded] unit> <for units without [Cooldown]>"],
+                "[This Unit] gains the [Blunt Cooldown] status for [2] turn(s) <upon damaging a [Stunned] unit> <for units without [Cooldown]>"],
   },
   {
-    "name": "Cooldown"
+    "name": "Blunt Cooldown"
     "uniques": ["Comment [In Cooldown]",
                "[-1]% Strength"],
   },
