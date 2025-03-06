@@ -14,8 +14,8 @@
                 "[+70]% Strength <when number of [Faith] is more than [700]> <starting from the [Modern era]>",
                 "[+100]% Strength <when number of [Faith] is more than [800]> <starting from the [Information era]>",
                 "[+100]% Strength <when number of [Faith] is more than [1000]> <starting from the [Information era]>",
-                "[This Unit] gains the [Cooldown] status for [2] turn(s) <upon damaging a [Land] unit>",
-                "[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [Land] unit> <with [50]% chance> <for units without [Cooldown]>"],
+                "[This Unit] gains the [Cooldown] status for [2] turn(s) <upon damaging a [Military] unit>",
+                "[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [Military] unit> <for units without [Cooldown]>"],
   },
   {
     "name": "Cooldown"
