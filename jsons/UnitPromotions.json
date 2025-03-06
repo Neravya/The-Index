@@ -23,7 +23,7 @@
   },
   {
     "name": "Pierce Cooldown"
-    "uniques": ["Comment [Pierce attack in Cooldown", "[-1]% Strength"],
+    "uniques": ["Comment [Pierce attack in Cooldown]", "[-1]% Strength"],
   },
   {
     "name": "Slash Cooldown"
@@ -35,7 +35,7 @@
   },
   {
     "name": "Bleed"
-    "uniques": ["[This Unit] takes 7 damage <upon turn start>"],
+    "uniques": ["[This Unit] takes [7] damage <upon turn start>"],
   },
   {
     "name": "Stunned"
