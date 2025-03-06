@@ -24,7 +24,7 @@
   {
     "name": "Stunned"
     "uniques": ["Comment [Cannot Move, Cannot Attack for this turn]",
-                "[This Unit] loses [999] movement <upon turn start>",
-                "Cannot attack", "Cannot move"],
+                "[This Unit] loses [999] movement <upon turn start> <hidden from users>",
+                "Cannot attack", "Cannot move", "[-1]% Strength"],
   },
 ]
