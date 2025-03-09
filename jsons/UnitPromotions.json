@@ -20,7 +20,7 @@
                 "[-1] HP when healing <when number of [Faith] is less than [700]> <before discovering [Rifling]>",
                 "[-1] HP when healing <when number of [Faith] is less than [1100]> <before discovering [Replaceable Parts]>",
                 "[-1] HP when healing <when number of [Faith] is less than [1600]> <before discovering [Plastics]>",
-                "[+5] HP when healing <when number of [Faith] is more than [2500] <after discovering [Mobile Tactics]>"],
+                "[+5] HP when healing <when number of [Faith] is more than [2500]> <after discovering [Mobile Tactics]>"],
   },
   {
     "name": "Pierce Cooldown"
