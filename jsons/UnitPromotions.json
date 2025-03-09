@@ -8,7 +8,7 @@
                 "[+70]% Strength <when number of [Faith] is more than [700]> <after discovering [Rifling]>",
                 "[+120]% Strength <when number of [Faith] is more than [1100]> <after discovering [Replaceable Parts]>",
                 "[+150]% Strength <when number of [Faith] is more than [1600]> <after discovering [Plastics]>",
-                "[+160]% Strength, <when number of [Faith] is more than [2200]> <after discovering [Mobile Tactics]>",
+                "[+160]% Strength <when number of [Faith] is more than [2200]> <after discovering [Mobile Tactics]>",
                 "[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [Wounded] unit> <for units without [Blunt Cooldown]> <with [20]% chance>",
                 "[Target Unit] gains the [Bleed] status for [4] turn(s) <upon damaging a [Wounded] unit> <for units without [Slash Cooldown]> <with [25]% chance>",
                 "[Target Unit] takes [15] damage <upon damaging a [Wounded] unit> <for units without [Pierce Cooldown]> <with [30]% chance>",
