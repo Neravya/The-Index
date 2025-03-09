@@ -14,7 +14,13 @@
                 "[Target Unit] takes [15] damage <upon damaging a [Wounded] unit> <for units without [Pierce Cooldown]> <with [40]% chance>",
                 "[This Unit] gains the [Pierce Cooldown] status for [3] turn(s) <upon damaging a [Wounded] unit> <for units without [Pierce Cooldown]>",
                 "[This Unit] gains the [Slash Cooldown] status for [4] turn(s) <upon damaging a [Bleed] unit> <for units without [Slash Cooldown]>",
-                "[This Unit] gains the [Blunt Cooldown] status for [4] turn(s) <upon damaging a [Stunned] unit> <for units without [Blunt Cooldown]>"],
+                "[This Unit] gains the [Blunt Cooldown] status for [4] turn(s) <upon damaging a [Stunned] unit> <for units without [Blunt Cooldown]>"
+                "[-1] HP when healing <when number of [Faith] is less than [200]> <before discovering [Steel]>",
+                "[-1] HP when healing <when number of [Faith] is less than [400]> <before discovering [Gunpowder]>",
+                "[-1] HP when healing <when number of [Faith] is less than [700]> <before discovering [Rifling]>",
+                "[-1] HP when healing <when number of [Faith] is less than [1100]> <before discovering [Replaceable Parts]>",
+                "[-1] HP when healing <when number of [Faith] is less than [1600]> <before discovering [Plastics]>",
+                "[+10] HP when healing <when number of [Faith] is more than [3000] <after discovering [Mobile Tactics]>"],
   },
   {
     "name": "Pierce Cooldown"
@@ -35,8 +41,8 @@
   },
   {
     "name": "Stunned"
-    "uniques": ["Comment [Cannot Move, Cannot Attack for this turn]",
+    "uniques": ["Comment [Cannot Move, and Cannot Attack for this turn]",
                 "[This Unit] loses [999] movement <upon turn start> <hidden from users>",
-                "Cannot attack", "Cannot move", "[-1]% Strength"],
+                "Cannot attack", "Cannot move", "[-10] HP when healing", "[-1]% Strength"],
   },
 ]
